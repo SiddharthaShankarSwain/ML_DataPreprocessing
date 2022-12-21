@@ -68,7 +68,7 @@
        - We need to have these variables in the same scale otherwise their distance(or Euclidean distance) would be dominated by the variable with high range
        - Standardization and normalization are two ways of doing feature scaling
        - In Python, we use StandardScaler class from scikit preprocessing library
-       - In R, we use scale function
+       - In R, we use scale function.
 
     
      
